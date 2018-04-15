@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DisableWheel.iml" filepath="$PROJECT_DIR$/DisableWheel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DisableWheel_api.iml" filepath="$PROJECT_DIR$/.idea/modules/DisableWheel_api.iml" group="DisableWheel" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DisableWheel_main.iml" filepath="$PROJECT_DIR$/.idea/modules/DisableWheel_main.iml" group="DisableWheel" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DisableWheel_test.iml" filepath="$PROJECT_DIR$/.idea/modules/DisableWheel_test.iml" group="DisableWheel" />
+    </modules>
+  </component>
+</project>
