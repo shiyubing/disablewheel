@@ -1,0 +1,12 @@
+[
+  {
+    "modid": "disablewheel",
+    "name": "DisableWheel",
+    "description": "A mod that disable the mouse wheel.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": [
+      "Bing"
+    ]
+  }
+]
