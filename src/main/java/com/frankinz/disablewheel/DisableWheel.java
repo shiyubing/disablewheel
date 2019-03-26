@@ -21,7 +21,7 @@ public class DisableWheel {
 
     public static final String MOD_ID = "disablewheel";
     public static final String MOD_NAME = "DisableWheel";
-    public static final String VERSION = "1.12";
+    public static final String VERSION = "1.13.2";
 
     /**
      * This is the instance of your mod as created by Forge. It will never be null.
